@@ -1,0 +1,107 @@
+timestamp,subject,topic,question_type,difficulty,confidence,response_time,elapsed_seconds,correct,calibration_state,p_correct,action,base_reward,satisfaction,combined_reward,previous_accuracy,hint_used
+10-08-2026 7:35,Mathematics,Sum,MCQ,Medium,Medium,Slow,17.2,FALSE,Well-calibrated,0.45,Hint,-5,Helpful,0,Low,No
+10-08-2026 7:36,Mathematics,Sum,MCQ,Medium,Medium,Fast,3.1,TRUE,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No
+10-08-2026 7:36,Mathematics,Sum,MCQ,Medium,Medium,Fast,6.3,TRUE,Well-calibrated,0.7,Retry,10,Helpful,15,High,No
+10-08-2026 7:37,Mathematics,Sum,MCQ,Medium,Medium,Fast,6.4,TRUE,Well-calibrated,0.7,Retry,10,Helpful,15,High,No
+10-08-2026 7:37,Mathematics,Sum,MCQ,Medium,Medium,Fast,4.2,TRUE,Well-calibrated,0.7,Retry,10,Helpful,15,High,No
+10-08-2026 7:38,Mathematics,Sum,MCQ,Medium,Medium,Fast,5.3,FALSE,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No
+10-08-2026 7:38,Mathematics,Sum,MCQ,Medium,Medium,Fast,11.9,TRUE,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No
+10-08-2026 7:39,Mathematics,Sum,MCQ,Medium,Medium,Fast,7,TRUE,Well-calibrated,0.7,Explanation,10,Helpful,15,High,No
+15-08-2026 17:58,Mathematics,Calculus,MCQ,Medium,Medium,Slow,24.6,TRUE,Well-calibrated,0.45,Explanation,10,Helpful,15,High,No
+15-08-2026 17:58,Mathematics,Calculus,MCQ,Medium,Medium,Slow,28.7,TRUE,Well-calibrated,0.6,Explanation,10,Helpful,15,High,No
+15-08-2026 18:08,Mathematics,Probability,MCQ,Medium,Medium,Slow,92.7,FALSE,Well-calibrated,0.45,Explanation,-5,Helpful,0,Low,No
+15-08-2026 18:09,Mathematics,Probability,MCQ,Medium,Medium,Fast,10.8,TRUE,Well-calibrated,0.4,Explanation,10,Not Helpful,5,High,No
+15-08-2026 18:10,Mathematics,Probability,MCQ,Medium,Medium,Slow,16.5,TRUE,Well-calibrated,0.6,Explanation,10,Helpful,15,High,No
+15-08-2026 18:10,Mathematics,Probability,MCQ,Medium,Medium,Fast,13,TRUE,Well-calibrated,0.7,Reveal,2,Helpful,7,High,No
+15-08-2026 18:11,Mathematics,Probability,MCQ,Medium,Medium,Fast,10.2,TRUE,Well-calibrated,0.7,Retry,10,Helpful,15,High,No
+15-08-2026 18:12,Mathematics,Probability,MCQ,Medium,Medium,Slow,16,TRUE,Well-calibrated,0.6,Reveal,2,Helpful,7,High,No
+15-08-2026 18:13,Mathematics,Probability,MCQ,Medium,Medium,Slow,21.8,TRUE,Well-calibrated,0.6,Hint,10,Helpful,15,High,No
+15-08-2026 18:13,Mathematics,Probability,MCQ,Medium,Medium,Fast,3.3,FALSE,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No
+15-08-2026 18:14,Mathematics,Probability,MCQ,Medium,Medium,Fast,7,FALSE,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No
+15-08-2026 18:14,Mathematics,Probability,MCQ,Medium,Medium,Slow,19.2,TRUE,Well-calibrated,0.3,Reveal,2,Helpful,7,High,No
+15-08-2026 18:15,Mathematics,Probability,MCQ,Medium,Medium,Fast,5.6,FALSE,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No
+15-08-2026 18:15,Mathematics,Probability,MCQ,Medium,Medium,Fast,5,FALSE,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+2026-09-02 13:42:12,Mathematics,Addition ,MCQ,Medium,Medium,Slow,93.3,True,Over-confident,0.6,Reveal,2,Helpful,7,High,No
+2026-09-05 10:13:33,Mathematics ,Addition ,MCQ,Medium,Medium,Fast,34.9,True,Well-calibrated,0.55,Explanation,10,Helpful,15,High,No
+2026-09-05 10:15:13,Mathematics ,Addition ,MCQ,Medium,Medium,Slow,62.4,True,Well-calibrated,0.6,Explanation,10,Helpful,15,High,No

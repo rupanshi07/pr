@@ -1,8 +1,10 @@
-﻿venv/
+venv/
+.venv/
 __pycache__/
-*.pyc
-.streamlit/
-*.log
-data/q_table_eval_temp.json
-data/student_performance_raw.csv
-
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/

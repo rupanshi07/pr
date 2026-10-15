@@ -1,0 +1,5 @@
+timestamp,subject,topic,question_type,difficulty,confidence,response_time,elapsed_seconds,correct,calibration_state,p_correct,action,base_reward,satisfaction,combined_reward,previous_accuracy
+2026-08-07 17:52:20,Mathematics ,Addition,MCQ,Medium,Medium,Fast,9.0,False,Well-calibrated,0.55,Retry,-5,Not Helpful,-10,Low
+2026-08-08 23:50:34,Mathematics,Percentage,MCQ,Medium,Medium,Slow,18.2,False,Well-calibrated,0.35,Explanation,-5,Helpful,0,Low,Yes
+2026-08-08 23:53:13,Mathematics,Percentage,MCQ,Medium,High,Slow,73.4,True,Over-confident,0.45,Hint,10,Helpful,15,High,No
+2026-08-10 07:27:11,Mathematics,Percentage,MCQ,Medium,Medium,Fast,9.0,False,Well-calibrated,0.55,Explanation,-5,Helpful,0,Low,No

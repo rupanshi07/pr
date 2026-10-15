@@ -1,0 +1,76 @@
+timestamp,subject,topic,question_type,difficulty,confidence,response_time,elapsed_seconds,correct,calibration_state,p_correct,action,base_reward,satisfaction,combined_reward,previous_accuracy,hint_used,justification_text,linguistic_confidence,effective_confidence
+2026-09-17 14:43:24,Mathematics ,Addition ,MCQ,Medium,Medium,Slow,56.2,True,Over-confident,0.6,Reveal,2,Helpful,7,High,No,All options are same,High,High
+2026-09-17 14:45:34,Mathematics ,Addition ,MCQ,Medium,Medium,Slow,58.6,True,Over-confident,0.6,Reveal,2,Not Helpful,-3,High,No,,,Medium
+2026-09-17 14:46:58,Mathematics ,Addition ,MCQ,Medium,Medium,Fast,13.3,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 14:49:28,Mathematics ,Addition ,MCQ,Medium,Medium,Fast,14.3,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 14:51:26,Mathematics ,Addition ,MCQ,Medium,Medium,Slow,58.3,False,Well-calibrated,0.6,Reveal,2,Helpful,7,Low,No,,,Medium
+2026-09-17 17:10:33,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,25.9,True,Well-calibrated,0.55,Reveal,2,Helpful,7,High,No,,,Medium
+2026-09-17 17:11:37,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,32.4,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:12:32,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,26.4,False,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:14:00,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,34.2,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:15:05,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,33.5,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:15:41,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,7.1,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:16:03,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,4.4,False,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:16:20,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,3.1,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:16:52,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,4.7,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:17:20,Mathematics,Subtaction ,MCQ,Medium,Medium,Fast,7.9,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:22:12,Mathematics,Addition,MCQ,Medium,Medium,Fast,18.3,False,Well-calibrated,0.55,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:30:50,Mathematics,Addition,MCQ,Medium,Medium,Fast,10.0,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:31:25,Mathematics,Addition,MCQ,Medium,Medium,Fast,17.7,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:32:08,Mathematics,Addition,MCQ,Medium,Medium,Fast,14.8,False,Well-calibrated,0.7,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:32:48,Mathematics,Addition,MCQ,Medium,Medium,Fast,6.0,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:33:21,Mathematics,Addition,MCQ,Medium,Medium,Fast,5.7,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:33:58,Mathematics,Addition,MCQ,Medium,Medium,Fast,9.3,False,Well-calibrated,0.4,Retry,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:34:12,Mathematics,Addition,MCQ,Medium,Medium,Fast,5.3,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:34:55,Mathematics,Addition,MCQ,Medium,Medium,Fast,11.5,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:35:41,Mathematics,Addition,MCQ,Medium,Medium,Fast,23.9,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:36:19,Mathematics,Addition,MCQ,Medium,Medium,Fast,18.6,False,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:36:35,Mathematics,Addition,MCQ,Medium,Medium,Fast,6.8,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:37:16,Mathematics,Addition,MCQ,Medium,Medium,Fast,5.8,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:37:46,Mathematics,Addition,MCQ,Medium,Medium,Fast,8.4,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:38:14,Mathematics,Addition,MCQ,Medium,Medium,Fast,4.6,False,Well-calibrated,0.7,Hint,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:38:53,Mathematics,Addition,MCQ,Medium,Medium,Fast,4.6,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:39:18,Mathematics,Addition,MCQ,Medium,Medium,Fast,3.2,True,Well-calibrated,0.7,Hint,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:40:00,Mathematics,Addition,MCQ,Medium,Medium,Fast,10.6,False,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:40:37,Mathematics,Addition,MCQ,Medium,Medium,Fast,18.4,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:41:24,Mathematics,Addition,MCQ,Medium,Medium,Fast,23.3,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:42:06,Mathematics,Addition,MCQ,Medium,Medium,Fast,18.3,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:43:22,Mathematics,Addition,MCQ,Medium,Medium,Fast,6.1,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:43:51,Mathematics,Addition,MCQ,Medium,Medium,Fast,3.4,False,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:44:30,Mathematics,Addition,MCQ,Medium,Medium,Fast,12.6,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:45:18,Mathematics,Addition,MCQ,Medium,Medium,Fast,3.7,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:46:11,Mathematics,Addition,MCQ,Medium,Medium,Fast,3.4,False,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:46:30,Mathematics,Addition,MCQ,Medium,Medium,Fast,7.9,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:47:02,Mathematics,Addition,MCQ,Medium,Medium,Fast,5.4,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:47:32,Mathematics,Addition,MCQ,Medium,Medium,Fast,6.5,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:48:19,Mathematics,Addition,MCQ,Medium,Medium,Fast,5.2,False,Well-calibrated,0.7,Retry,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:48:36,Mathematics,Addition,MCQ,Medium,Medium,Fast,5.4,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:49:20,Mathematics,Addition,MCQ,Medium,Medium,Fast,9.7,True,Well-calibrated,0.7,Retry,10,Helpful,15,High,No,,,Medium
+2026-09-17 17:51:54,MATHEMATICS,ADDITION,MCQ,Medium,Medium,Fast,37.3,False,Well-calibrated,0.55,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:52:20,MATHEMATICS,ADDITION,MCQ,Medium,Medium,Fast,8.5,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:52:39,MATHEMATICS,ADDITION,MCQ,Medium,Medium,Fast,1.7,False,Well-calibrated,0.4,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-17 17:53:02,MATHEMATICS,ADDITION,MCQ,Medium,Medium,Fast,5.0,True,Well-calibrated,0.4,Explanation,10,Helpful,15,High,No,,,Medium
+2026-09-18 17:27:26,Computer Science,Binary Search Tree,MCQ,Medium,High,Slow,66.7,True,Over-confident,0.5,Reveal,2,Helpful,7,High,Yes,,,High
+2026-09-18 17:30:08,Computer Science,Binary Search Tree,MCQ,Medium,High,Slow,86.6,True,Over-confident,0.65,Reveal,2,Helpful,7,High,Yes,,,High
+2026-09-18 17:31:55,Computer Science,Binary Search Tree,MCQ,Medium,High,Slow,54.0,True,Over-confident,0.65,Reveal,2,Helpful,7,High,Yes,,,High
+2026-09-18 17:32:27,MATHS,CALCULUS,MCQ,Medium,Low,Fast,37.3,True,Under-confident,0.3,Reveal,2,Helpful,7,High,Yes,,,Low
+2026-09-18 17:33:41,Computer Science,Binary Search Tree,MCQ,Medium,High,Slow,53.7,True,Over-confident,0.65,Reveal,2,Helpful,7,High,Yes,,,High
+2026-09-18 17:33:58,MATHS,CALCULUS,MCQ,Medium,Low,Slow,47.7,True,Under-confident,0.35,Reveal,2,Helpful,7,High,Yes,,,Low
+2026-09-18 17:34:40,Computer Science,Binary Search Tree,MCQ,Medium,High,Fast,32.9,False,Over-confident,0.75,Retry,-5,Helpful,0,Low,Yes,,,High
+2026-09-18 17:34:55,MATHS,CALCULUS,MCQ,Medium,Low,Fast,24.0,True,Under-confident,0.45,Reveal,2,Helpful,7,High,Yes,,,Low
+2026-09-18 17:35:06,Computer Science,Binary Search Tree,MCQ,Medium,High,Fast,9.3,True,Over-confident,0.45,Explanation,10,Helpful,15,High,Yes,,,High
+2026-09-18 17:35:35,MATHS,CALCULUS,MCQ,Medium,Low,Fast,22.9,True,Under-confident,0.45,Reveal,2,Helpful,7,High,Yes,,,Low
+2026-09-18 17:35:56,Computer Science,Binary Search Tree,MCQ,Medium,High,Fast,21.7,False,Over-confident,0.75,Retry,-5,Helpful,0,Low,Yes,,,High
+2026-09-18 17:36:13,Computer Science,Binary Search Tree,MCQ,Medium,High,Fast,7.9,True,Over-confident,0.45,Reveal,2,Helpful,7,High,Yes,,,High
+2026-09-18 17:36:22,MATHS,CALCULUS,MCQ,Medium,Low,Fast,24.5,False,Under-confident,0.45,Reveal,2,Helpful,7,Low,Yes,,,Low
+2026-09-18 17:36:54,Computer Science,Binary Search Tree,MCQ,Medium,High,Fast,24.3,True,Over-confident,0.75,Explanation,10,Helpful,15,High,Yes,,,High
+2026-09-18 17:41:26,Physics,Thermodynamics ,MCQ,Medium,Medium,Fast,39.2,False,Well-calibrated,0.55,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-18 17:41:32,Chemistry,Chemical Reaction ,MCQ,Medium,Medium,Fast,41.9,False,Well-calibrated,0.55,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-18 17:41:50,Physics,Thermodynamics ,MCQ,Easy,Medium,Fast,8.9,False,Well-calibrated,0.6,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-18 17:41:53,Chemistry,Chemical Reaction ,MCQ,Easy,Medium,Fast,6.4,False,Well-calibrated,0.6,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-18 17:42:24,Physics,Thermodynamics ,MCQ,Easy,Medium,Fast,12.6,False,Well-calibrated,0.5,Explanation,-5,Helpful,0,Low,Yes,,,Medium
+2026-09-18 17:42:32,Chemistry,Chemical Reaction ,MCQ,Easy,Medium,Fast,15.2,False,Well-calibrated,0.5,Explanation,-5,Helpful,0,Low,Yes,,,Medium
+2026-09-18 17:42:51,Physics,Thermodynamics ,MCQ,Easy,Medium,Fast,11.4,False,Well-calibrated,0.6,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-18 17:42:58,Chemistry,Chemical Reaction ,MCQ,Easy,Medium,Fast,4.2,False,Well-calibrated,0.6,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-18 17:43:24,Physics,Thermodynamics ,MCQ,Easy,Medium,Fast,14.9,False,Well-calibrated,0.6,Explanation,-5,Helpful,0,Low,No,,,Medium
+2026-09-18 17:43:28,Chemistry,Chemical Reaction ,MCQ,Easy,Medium,Fast,15.0,False,Well-calibrated,0.6,Explanation,-5,Helpful,0,Low,No,,,Medium
